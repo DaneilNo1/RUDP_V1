@@ -1,0 +1,13 @@
+﻿生成启动时间为 11/25/2020 12:11:30 AM。
+     1>项目“G:\计算机\计算机网络\2020\实验\大作业\1\代码\server\server\server.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         E:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\计算机\计算机网络\2020\实验\大作业\1\代码\server\Debug\server.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\计算机\计算机网络\2020\实验\大作业\1\代码\server\Debug\server.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\计算机\计算机网络\2020\实验\大作业\1\代码\server\Debug\server.lib" /MACHINE:X86 Debug\main.obj
+         server.vcxproj -> G:\计算机\计算机网络\2020\实验\大作业\1\代码\server\Debug\server.exe
+     1>已完成生成项目“G:\计算机\计算机网络\2020\实验\大作业\1\代码\server\server\server.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.87
